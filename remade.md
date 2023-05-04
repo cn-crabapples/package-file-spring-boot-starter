@@ -1,4 +1,4 @@
-> # mail-spring-boot-starter(JDK 1.8)
+> # package-file-spring-boot-starter(JDK 1.8)
 
 ### 快速配置批量打包模块
 
